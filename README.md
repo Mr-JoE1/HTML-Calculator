@@ -1,2 +1,2 @@
 # HTML-Calculator
-Simple challenge for web development newbie :D  
+with a little script for mathwork and little css styles.
